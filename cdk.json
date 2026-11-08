@@ -1,8 +1,8 @@
 {
   "app": "npx ts-node --prefer-ts-exts bin/app.ts",
   "context": {
-    "githubRepo": "YOUR-GITHUB-USERNAME/capstone4-workflow",
+    "githubRepo": "sketch254/capstone4-workflow",
     "githubBranch": "main",
-    "connectionArn": "arn:aws:codeconnections:REGION:ACCOUNT_ID:connection/REPLACE-ME"
+    "connectionArn": "arn:aws:codeconnections:YOUR_REGION:YOUR_ACCOUNT_ID:connection/YOUR-CONNECTION-UUID"
   }
 }
